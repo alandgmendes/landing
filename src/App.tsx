@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React todo emo eh gay
+          Learn React todo soneca é gaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygaygay
         </a>
       </header>
     </div>
